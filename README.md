@@ -4,4 +4,6 @@
 
 <div align='center'><a href="https://www.pitayafruit.club/archives/picbed"><b>点我查看搭建自己图床教程</b></a></div>
 
+</br>
+
 <div align='center'><image src="https://cdn.staticaly.com/gh/Pitayafruits/myPicRep@main/image/202211091639964.jpg" align='center'></image></div>
