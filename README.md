@@ -1,2 +1,1 @@
-# <center>图床</center>
-<center>无情的白嫖机器</center>
+<h1 align='center'>图床</h1>
