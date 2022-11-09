@@ -2,7 +2,7 @@
 
 <p align="center"><b>说明：此仓库仅作为个人图床使用</b></p>
 
-<div align='center'><a href="https://www.pitayafruit.club/archives/picbed"><b>点我查看搭建自己图床教程</b></a></div>
+<div align='center'><a href="https://www.pitayafruit.club/archives/picbed"><b>点我查看搭建自己图床的教程</b></a></div>
 
 </br>
 
