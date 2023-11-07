@@ -6,4 +6,4 @@
 
 </br>
 
-<div align='center'><image src="https://cdn.staticaly.com/gh/Pitayafruits/myPicRep@main/image/202211091639964.jpg" align='center'></image></div>
+<div align='center'><image src="https://Pitayafruits/myPicRep@main/image/202211091639964.jpg" align='center'></image></div>
